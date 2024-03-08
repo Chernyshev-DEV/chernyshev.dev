@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+Our code follows.
+*/
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+}
